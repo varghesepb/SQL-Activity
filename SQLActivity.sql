@@ -138,3 +138,4 @@ JOIN City ct ON c.City_id = ct.City_id
 GROUP BY ct.City_id, ct.City_name
 ORDER BY Customer_Count DESC;
 
+-- 
